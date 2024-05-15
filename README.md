@@ -12,7 +12,7 @@ git clone https://github.com/pragya-02/Vehicle-Speed-Estimation-System.git
     - Navigate to the project directory.
     - Run the command `pip install -r requirements.txt` if available to install the necessary packages, else, manually install required packages.
 
-2. Run `python app.py` in the terminal (install missing packages if any and retry).
+2. Navigate to directory `code` and Run the command `python app.py` in the terminal (install missing packages if any and retry).
 3. Upload the video using web app.
 4. Mark 4 points in video for homography transformation.
 5. Provide real world distance between those points.
